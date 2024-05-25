@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/aditia-portofolio/static/css/main.cde454ce.css",
+    "main.js": "/aditia-portofolio/static/js/main.c0375c01.js",
+    "static/media/background.jpg": "/aditia-portofolio/static/media/background.eecce61848d69e41a60a.jpg",
+    "static/media/Logo2.png": "/aditia-portofolio/static/media/Logo2.a6464371d709876c4738.png",
+    "static/media/logo_baju.png": "/aditia-portofolio/static/media/logo_baju.837589fc920ce52984d9.png",
+    "static/media/logo_biasa.png": "/aditia-portofolio/static/media/logo_biasa.fbf2e19dabb001946675.png",
+    "index.html": "/aditia-portofolio/index.html",
+    "main.cde454ce.css.map": "/aditia-portofolio/static/css/main.cde454ce.css.map",
+    "main.c0375c01.js.map": "/aditia-portofolio/static/js/main.c0375c01.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cde454ce.css",
+    "static/js/main.c0375c01.js"
+  ]
+}
