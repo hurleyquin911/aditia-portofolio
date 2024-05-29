@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/aditia-portofolio/static/css/main.b5717ddd.css",
-    "main.js": "/aditia-portofolio/static/js/main.ea2d1666.js",
+    "main.css": "/aditia-portofolio/static/css/main.0dd875f8.css",
+    "main.js": "/aditia-portofolio/static/js/main.a249fb36.js",
+    "static/media/Background3.jpg": "/aditia-portofolio/static/media/Background3.57411b9b7f468aa97478.jpg",
     "static/media/background.jpg": "/aditia-portofolio/static/media/background.eecce61848d69e41a60a.jpg",
     "static/media/Logo2.png": "/aditia-portofolio/static/media/Logo2.a6464371d709876c4738.png",
     "static/media/logo_baju.png": "/aditia-portofolio/static/media/logo_baju.837589fc920ce52984d9.png",
     "static/media/logo_biasa.png": "/aditia-portofolio/static/media/logo_biasa.fbf2e19dabb001946675.png",
     "index.html": "/aditia-portofolio/index.html",
-    "main.b5717ddd.css.map": "/aditia-portofolio/static/css/main.b5717ddd.css.map",
-    "main.ea2d1666.js.map": "/aditia-portofolio/static/js/main.ea2d1666.js.map"
+    "main.0dd875f8.css.map": "/aditia-portofolio/static/css/main.0dd875f8.css.map",
+    "main.a249fb36.js.map": "/aditia-portofolio/static/js/main.a249fb36.js.map"
   },
   "entrypoints": [
-    "static/css/main.b5717ddd.css",
-    "static/js/main.ea2d1666.js"
+    "static/css/main.0dd875f8.css",
+    "static/js/main.a249fb36.js"
   ]
 }
