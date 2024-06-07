@@ -1,28 +1,40 @@
 {
   "files": {
-    "main.css": "/aditia-portofolio/static/css/main.8ebab7d1.css",
-    "main.js": "/aditia-portofolio/static/js/main.e3d2e6c0.js",
+    "main.css": "/aditia-portofolio/static/css/main.e73804a3.css",
+    "main.js": "/aditia-portofolio/static/js/main.e779d920.js",
+    "static/media/planet1.png": "/aditia-portofolio/static/media/planet1.af50dec56f08a7b84031.png",
     "static/media/Background3.jpg": "/aditia-portofolio/static/media/Background3.57411b9b7f468aa97478.jpg",
     "static/media/background.jpg": "/aditia-portofolio/static/media/background.eecce61848d69e41a60a.jpg",
     "static/media/Logo2.png": "/aditia-portofolio/static/media/Logo2.a6464371d709876c4738.png",
     "static/media/logo_baju.png": "/aditia-portofolio/static/media/logo_baju.837589fc920ce52984d9.png",
+    "static/media/Integration.png": "/aditia-portofolio/static/media/Integration.f2978266db0fc239be61.png",
+    "static/media/Documentation.png": "/aditia-portofolio/static/media/Documentation.ac0c5d1fa17121a6553e.png",
     "static/media/emas1.jpg": "/aditia-portofolio/static/media/emas1.7a7e07862e1b93a445ee.jpg",
     "static/media/Design.png": "/aditia-portofolio/static/media/Design.2ff8356959f69ff73c0c.png",
     "static/media/3.png": "/aditia-portofolio/static/media/3.43626b2e65d0940749cd.png",
+    "static/media/SpaceCity8.jpeg": "/aditia-portofolio/static/media/SpaceCity8.194946d735d2fa59a6a2.jpeg",
+    "static/media/SpaceCity9.jpeg": "/aditia-portofolio/static/media/SpaceCity9.ad4a5f262698b2476b87.jpeg",
+    "static/media/SpaceCity7.jpeg": "/aditia-portofolio/static/media/SpaceCity7.68e46d7b996cec02d348.jpeg",
+    "static/media/SpaceCity6.jpeg": "/aditia-portofolio/static/media/SpaceCity6.7e56631ea6f96d1d932b.jpeg",
+    "static/media/SpaceCity1.jpg": "/aditia-portofolio/static/media/SpaceCity1.14a2dcbf80e8af540f12.jpg",
+    "static/media/SpaceCity5.jpeg": "/aditia-portofolio/static/media/SpaceCity5.e611d4cb6ae4beabfdbe.jpeg",
     "static/media/1.png": "/aditia-portofolio/static/media/1.012be4359d22cc0bca07.png",
+    "static/media/Development.png": "/aditia-portofolio/static/media/Development.39097205852891a6d563.png",
     "static/media/2.png": "/aditia-portofolio/static/media/2.86979c65a34b63307922.png",
+    "static/media/Testing.png": "/aditia-portofolio/static/media/Testing.375d9527e60e34911131.png",
     "static/media/wapng.png": "/aditia-portofolio/static/media/wapng.ebcf0301b0930ac8aff7.png",
     "static/media/4.png": "/aditia-portofolio/static/media/4.a2bac80e22272829d07b.png",
+    "static/media/maintenence.png": "/aditia-portofolio/static/media/maintenence.f6c37e4087a7f50f9779.png",
     "static/media/5.png": "/aditia-portofolio/static/media/5.97ab5431933e3c304cca.png",
     "static/media/logofoto.jpeg": "/aditia-portofolio/static/media/logofoto.8da9e1cdfd55c7cbd8bf.jpeg",
     "static/media/Component.png": "/aditia-portofolio/static/media/Component.9d69fb9d6a9b72cfba5c.png",
     "static/media/logo_biasa.png": "/aditia-portofolio/static/media/logo_biasa.fbf2e19dabb001946675.png",
     "index.html": "/aditia-portofolio/index.html",
-    "main.8ebab7d1.css.map": "/aditia-portofolio/static/css/main.8ebab7d1.css.map",
-    "main.e3d2e6c0.js.map": "/aditia-portofolio/static/js/main.e3d2e6c0.js.map"
+    "main.e73804a3.css.map": "/aditia-portofolio/static/css/main.e73804a3.css.map",
+    "main.e779d920.js.map": "/aditia-portofolio/static/js/main.e779d920.js.map"
   },
   "entrypoints": [
-    "static/css/main.8ebab7d1.css",
-    "static/js/main.e3d2e6c0.js"
+    "static/css/main.e73804a3.css",
+    "static/js/main.e779d920.js"
   ]
 }
