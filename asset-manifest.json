@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/aditia-portofolio/static/css/main.e73804a3.css",
-    "main.js": "/aditia-portofolio/static/js/main.e779d920.js",
+    "main.js": "/aditia-portofolio/static/js/main.f5c487e2.js",
     "static/media/planet1.png": "/aditia-portofolio/static/media/planet1.af50dec56f08a7b84031.png",
     "static/media/Background3.jpg": "/aditia-portofolio/static/media/Background3.57411b9b7f468aa97478.jpg",
     "static/media/background.jpg": "/aditia-portofolio/static/media/background.eecce61848d69e41a60a.jpg",
@@ -31,10 +31,10 @@
     "static/media/logo_biasa.png": "/aditia-portofolio/static/media/logo_biasa.fbf2e19dabb001946675.png",
     "index.html": "/aditia-portofolio/index.html",
     "main.e73804a3.css.map": "/aditia-portofolio/static/css/main.e73804a3.css.map",
-    "main.e779d920.js.map": "/aditia-portofolio/static/js/main.e779d920.js.map"
+    "main.f5c487e2.js.map": "/aditia-portofolio/static/js/main.f5c487e2.js.map"
   },
   "entrypoints": [
     "static/css/main.e73804a3.css",
-    "static/js/main.e779d920.js"
+    "static/js/main.f5c487e2.js"
   ]
 }
